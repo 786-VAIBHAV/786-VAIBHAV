@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @786-VAIBHAV
 - 👀 I’m interested in data visualisation 
-- 🌱 I’m currently learning MS-EXCEL , sql, python , power BI , TABLEAU
+- 🌱 I’m skilled MS-EXCEL , sql, python , power BI , TABLEAU
 - 💞️ I’m looking to collaborate on data visualisation projects
 - 📫 How to reach me through my mail - vaibhavkumarjha0123@gmail.com
 
